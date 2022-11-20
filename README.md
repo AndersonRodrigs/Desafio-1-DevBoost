@@ -5,7 +5,7 @@
 ## Sobre o projeto:
 Desafio proposto pela [DevBoost.](http://anderson-rodrigues-portifolio.vercel.app/)
 
-[🔗 Clique aqui para acessar](http://anderson-rodrigues-portifolio.vercel.app/)
+[🔗 Clique aqui para acessar](https://andersonrodrigs.github.io/Desafio-1-DevBoost/)
 
 ## 🛠 Tecnologias:
 - HTML
