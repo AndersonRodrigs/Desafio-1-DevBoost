@@ -1,6 +1,6 @@
 # Desafio-1-DevBoost
 
-![image](https://user-images.githubusercontent.com/105132452/202926553-4dc56a55-e3c1-413e-b721-b9330c9cfc87.png)
+![image](./.github/preview.png)
 
 ## Sobre o projeto:
 Desafio proposto pela [DevBoost.](http://anderson-rodrigues-portifolio.vercel.app/)
